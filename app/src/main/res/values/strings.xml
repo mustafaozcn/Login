@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login</string>
+    <!-- Diğer string kaynakları -->
+    <string name="default_web_client_id">137667088449-db908gs3a0dn21blna6iolc9r85i4qno.apps.googleusercontent.com</string>
+</resources>
